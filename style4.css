@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 255, 255);
+ 
+}
+img {
+     transition:transform 10s linear 3s;
+}
+img:hover{
+    transform:translate(45deg);
+}
