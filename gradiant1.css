@@ -1,0 +1,9 @@
+div{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    gap:1cm;
+    flex-grow:15;
+    
+    
+}
